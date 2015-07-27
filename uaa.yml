@@ -8,6 +8,8 @@
 #spring_profiles: saml
 #spring_profiles: keystone,default,hsqldb
 
+scim.delete.deactivate: true
+
 #database:
 #  driverClassName: org.postgresql.Driver
 #  url: jdbc:postgresql:uaa
